@@ -1,3 +1,3 @@
 # task-list-recorder
 
-![ataskrecorder1](taskrecorder1.png)
+![taskrecorder1](taskrecorder1.PNG)
